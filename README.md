@@ -71,3 +71,17 @@ Kongunadu Arts and Science College
 Conclusion
 
 This project demonstrates the application of Python and Machine Learning techniques in healthcare data analysis and heart disease prediction.
+
+## Project Screenshots
+
+### 1. Project Folder
+![Project Folder](Screenshot/floder%20name.png)
+
+### 2. Python Code - Section 1
+![Python Code 1](Screenshot/python%20code-section%201.png)
+
+### 3. Python Code - Section 2
+![Python Code 2](Screenshot/python%20code-section%202.png)
+
+### 4. Model Output
+![Terminal Result](Screenshot/Terminal-Result.png)
